@@ -1,2 +1,4 @@
 # github-demo
-This is demo repository to show people how to use github
+This is to show people how to use github
+
+Some test code in here
